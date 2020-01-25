@@ -1,0 +1,2 @@
+Hotel Details Method
+====================
